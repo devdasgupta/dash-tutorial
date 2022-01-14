@@ -37,4 +37,4 @@ dash-ant = "==0.0.3"
 dash-interactive-graphviz = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
